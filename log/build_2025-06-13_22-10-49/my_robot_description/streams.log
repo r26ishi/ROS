@@ -1,0 +1,48 @@
+[0.177s] Invoking command in '/home/rishi/ros2_ws/build/my_robot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rishi/ros2_ws/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/rishi/ros2_ws/install/my_robot_description
+[2.007s] -- The C compiler identification is GNU 11.4.0
+[2.553s] -- The CXX compiler identification is GNU 11.4.0
+[2.563s] -- Detecting C compiler ABI info
+[2.816s] -- Detecting C compiler ABI info - done
+[2.822s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.823s] -- Detecting C compile features
+[2.845s] -- Detecting C compile features - done
+[2.857s] -- Detecting CXX compiler ABI info
+[2.955s] -- Detecting CXX compiler ABI info - done
+[2.961s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.961s] -- Detecting CXX compile features
+[2.961s] -- Detecting CXX compile features - done
+[3.050s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[3.235s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[3.480s] -- Configuring done
+[3.482s] -- Generating done
+[3.484s] -- Build files have been written to: /home/rishi/ros2_ws/build/my_robot_description
+[3.490s] Invoked command in '/home/rishi/ros2_ws/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rishi/ros2_ws/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/rishi/ros2_ws/install/my_robot_description
+[3.492s] Invoking command in '/home/rishi/ros2_ws/build/my_robot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rishi/ros2_ws/build/my_robot_description -- -j8 -l8
+[3.529s] Invoked command in '/home/rishi/ros2_ws/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rishi/ros2_ws/build/my_robot_description -- -j8 -l8
+[3.535s] Invoking command in '/home/rishi/ros2_ws/build/my_robot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rishi/ros2_ws/build/my_robot_description
+[3.541s] -- Install configuration: ""
+[3.541s] -- Installing: /home/rishi/ros2_ws/install/my_robot_description/share/my_robot_description//urdf
+[3.541s] -- Installing: /home/rishi/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/mobile_base.xacro
+[3.541s] -- Installing: /home/rishi/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/my_robot.urdf.xacro
+[3.541s] -- Installing: /home/rishi/ros2_ws/install/my_robot_description/share/my_robot_description//urdf/common_properties.xacro
+[3.541s] -- Installing: /home/rishi/ros2_ws/install/my_robot_description/share/my_robot_description//launch
+[3.541s] -- Installing: /home/rishi/ros2_ws/install/my_robot_description/share/my_robot_description//launch/display.launch.py
+[3.541s] -- Installing: /home/rishi/ros2_ws/install/my_robot_description/share/my_robot_description//launch/display.launch.xml
+[3.541s] -- Installing: /home/rishi/ros2_ws/install/my_robot_description/share/my_robot_description//rviz
+[3.541s] -- Installing: /home/rishi/ros2_ws/install/my_robot_description/share/my_robot_description//rviz/urdf_config.rviz
+[3.541s] -- Installing: /home/rishi/ros2_ws/install/my_robot_description/share/ament_index/resource_index/package_run_dependencies/my_robot_description
+[3.541s] -- Installing: /home/rishi/ros2_ws/install/my_robot_description/share/ament_index/resource_index/parent_prefix_path/my_robot_description
+[3.542s] -- Installing: /home/rishi/ros2_ws/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.sh
+[3.542s] -- Installing: /home/rishi/ros2_ws/install/my_robot_description/share/my_robot_description/environment/ament_prefix_path.dsv
+[3.542s] -- Installing: /home/rishi/ros2_ws/install/my_robot_description/share/my_robot_description/environment/path.sh
+[3.542s] -- Installing: /home/rishi/ros2_ws/install/my_robot_description/share/my_robot_description/environment/path.dsv
+[3.542s] -- Installing: /home/rishi/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.bash
+[3.542s] -- Installing: /home/rishi/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.sh
+[3.542s] -- Installing: /home/rishi/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.zsh
+[3.542s] -- Installing: /home/rishi/ros2_ws/install/my_robot_description/share/my_robot_description/local_setup.dsv
+[3.542s] -- Installing: /home/rishi/ros2_ws/install/my_robot_description/share/my_robot_description/package.dsv
+[3.542s] -- Installing: /home/rishi/ros2_ws/install/my_robot_description/share/ament_index/resource_index/packages/my_robot_description
+[3.542s] -- Installing: /home/rishi/ros2_ws/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig.cmake
+[3.542s] -- Installing: /home/rishi/ros2_ws/install/my_robot_description/share/my_robot_description/cmake/my_robot_descriptionConfig-version.cmake
+[3.542s] -- Installing: /home/rishi/ros2_ws/install/my_robot_description/share/my_robot_description/package.xml
+[3.544s] Invoked command in '/home/rishi/ros2_ws/build/my_robot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rishi/ros2_ws/build/my_robot_description

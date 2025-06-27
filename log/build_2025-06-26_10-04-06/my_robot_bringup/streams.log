@@ -1,0 +1,25 @@
+[0.210s] Invoking command in '/home/rishi/ros2_ws/build/my_robot_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rishi/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/rishi/ros2_ws/build/my_robot_bringup -- -j8 -l8
+[1.056s] Invoked command in '/home/rishi/ros2_ws/build/my_robot_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rishi/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/rishi/ros2_ws/build/my_robot_bringup -- -j8 -l8
+[1.196s] Invoking command in '/home/rishi/ros2_ws/build/my_robot_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rishi/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/rishi/ros2_ws/build/my_robot_bringup
+[1.211s] -- Install configuration: ""
+[1.212s] -- Execute custom install script
+[1.213s] -- Up-to-date symlink: /home/rishi/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//launch/my_robot_gazebo.launch.xml
+[1.246s] -- Up-to-date symlink: /home/rishi/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//config/gazebo_bridge.yaml
+[1.276s] -- Up-to-date symlink: /home/rishi/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//worlds/lidar_world.sdf
+[1.278s] -- Up-to-date symlink: /home/rishi/ros2_ws/install/my_robot_bringup/share/my_robot_bringup//worlds/test_world.sdf
+[1.278s] -- Up-to-date symlink: /home/rishi/ros2_ws/install/my_robot_bringup/share/ament_index/resource_index/package_run_dependencies/my_robot_bringup
+[1.284s] -- Up-to-date symlink: /home/rishi/ros2_ws/install/my_robot_bringup/share/ament_index/resource_index/parent_prefix_path/my_robot_bringup
+[1.284s] -- Up-to-date symlink: /home/rishi/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/environment/ament_prefix_path.sh
+[1.285s] -- Up-to-date symlink: /home/rishi/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/environment/ament_prefix_path.dsv
+[1.286s] -- Up-to-date symlink: /home/rishi/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/environment/path.sh
+[1.286s] -- Up-to-date symlink: /home/rishi/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/environment/path.dsv
+[1.286s] -- Up-to-date symlink: /home/rishi/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.bash
+[1.287s] -- Up-to-date symlink: /home/rishi/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.sh
+[1.288s] -- Up-to-date symlink: /home/rishi/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.zsh
+[1.288s] -- Up-to-date symlink: /home/rishi/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.dsv
+[1.288s] -- Symlinking: /home/rishi/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/package.dsv
+[1.304s] -- Up-to-date symlink: /home/rishi/ros2_ws/install/my_robot_bringup/share/ament_index/resource_index/packages/my_robot_bringup
+[1.304s] -- Up-to-date symlink: /home/rishi/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/cmake/my_robot_bringupConfig.cmake
+[1.323s] -- Up-to-date symlink: /home/rishi/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/cmake/my_robot_bringupConfig-version.cmake
+[1.324s] -- Up-to-date symlink: /home/rishi/ros2_ws/install/my_robot_bringup/share/my_robot_bringup/package.xml
+[1.327s] Invoked command in '/home/rishi/ros2_ws/build/my_robot_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rishi/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/rishi/ros2_ws/build/my_robot_bringup

@@ -1,0 +1,7 @@
+[console_scripts]
+camera_node = my_robot_controller.camera_subscriber:main
+circle_node = my_robot_controller.circle_detection:main
+follower_node = my_robot_controller.ball_follower:main
+publisher_node = my_robot_controller.circle_publisher:main
+test_node = my_robot_controller.my_first_node:main
+
